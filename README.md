@@ -10,8 +10,7 @@ To run the experiment:
 chmod +x *.sh
 ./startExperiment1.sh
 
-
-run with MODE and test
+run with MODE and TEST
 
 example
-sudo ./startExperiment1.sh TESTBED ping
+sudo ./startExperiment1.sh TESTBED PING
