@@ -1,0 +1,15 @@
+[2021-07-13 19:14:11.449669] ---  Software Radio Systems LTE eNodeB  ---
+[2021-07-13 19:14:11.449754] 
+[2021-07-13 19:14:11.449772] Reading configuration file /home/dellserver1/.config/srsran/enb.conf...
+[2021-07-13 19:14:11.449783] WARNING: cpu0 scaling governor is not set to performance mode. Realtime processing could be compromised. Consider setting it to performance mode before running the application.
+[2021-07-13 19:14:11.449793] 
+[2021-07-13 19:14:11.449801] Built in Release mode using commit d0c3a4232 on branch HEAD.
+[2021-07-13 19:14:11.449810] 
+[2021-07-13 19:14:11.471610] Opening 1 channels in RF device=default with args=default
+[2021-07-13 19:14:13.700136] Opening USRP channels=1, args: type=b200,master_clock_rate=23.04e6
+[2021-07-13 19:14:13.700237] Setting frequency: DL=2635.0 Mhz, UL=2515.0 MHz for cc_idx=0 nof_prb=100
+[2021-07-13 19:14:13.810556] 
+[2021-07-13 19:14:13.810619] ==== eNodeB started ===
+[2021-07-13 19:14:13.810638] Type <t> to view trace
+[2021-07-13 19:14:42.718818] SCTP Association Shutdown. Association: 0
+[2021-07-13 19:14:42.718993] Failed to initiate S1 connection. Attempting reconnection in 10 seconds
