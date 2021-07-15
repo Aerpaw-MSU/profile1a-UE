@@ -4,7 +4,7 @@ These are scripts developed for the virtual environment demo, but they can be (w
 used for more general purposes later.
 
 To modify the experiment:
-vim ./startEPCandENB.sh
+vim ./startUE.sh`
 
 To run the experiment:
 chmod +x *.sh
@@ -13,4 +13,4 @@ chmod +x *.sh
 run with MODE and TEST
 
 example
-sudo ./startExperiment1.sh TESTBED PING
+sudo ./startExperiment2.sh TESTBED PING
